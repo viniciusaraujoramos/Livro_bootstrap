@@ -1,3 +1,33 @@
 .navbarlogo{
     width: 20%;
 }
+
+.i{
+    width: 3%;
+}
+
+.github{
+    width: 3%;
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    background-color:rgb(16, 16, 46);
+}
+
+nav{
+    background-color: rgb(16, 16, 46);
+}
+
+.container-vini{
+    background-color: rgb(20, 20, 20);
+}
+
+body{
+    background-color: rgb(20, 20, 20);
+}
+
+h1, h2, h3, h4, h5, p{
+    color: white;
+}
