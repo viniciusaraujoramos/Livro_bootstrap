@@ -13,25 +13,32 @@
 footer{
     width: 100%;
     text-align: center;
-    background-color:rgb(0, 0, 0);
+    background-color:rgb(20, 20, 20);
+    bottom: 0;
 }
 
 nav{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(20, 20, 20);
 }
 
 .container-vini{
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(0, 0, 0);
 }
 
 body{
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(0, 0, 0);
 }
 
-h1, h2, h3, h4, h5, p{
+h1, h2, h3, h4, h5, p, a{
     color: white;
 }
 
 .cardcolor{
-    border-radius: black;
+    background-color: black;
+    color: black;
 }
+
+.espaco{
+    margin-top: 2%;
+}
+
